@@ -5,7 +5,7 @@ import seaborn as sns
 import streamlit as st
 
 #load data
-df= pd.read_csv("https://raw.githubusercontent.com/nabilahrahmawati/Bike_Dashboard/main/hour_bikeshare.csv")
+df= pd.read_csv("https://raw.githubusercontent.com/nabilahrahmawati/Bike_Dsb/refs/heads/main/hour_bikeshare.csv")
 df['dateday'] = pd.to_datetime(df['dateday'])
 
 
