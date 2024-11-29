@@ -2,7 +2,7 @@
 
 ## -- Analisis menggunakan Colab Notebook -- 
 
-### Detail hasil visualisasi ada di [notebook](https://github.com/nabilahrahmawati/Bike_Dashboard/blob/main/Projek_Bikesharing.ipynb))
+### Detail hasil visualisasi ada di [notebook](https://github.com/nabilahrahmawati/Bike_Dashboard/blob/main/Projek_Bikesharing.ipynb)
 
 ### Pertanyaan
 1. Bagaimana tren jumlah pengguna sepeda dalam beberapa tahun terakhir?
